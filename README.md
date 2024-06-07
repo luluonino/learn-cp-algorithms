@@ -1,3 +1,3 @@
 ## learn-cp-algorithms
-This repo contains notes and code snippets of new data structures and 
-algorithms I'm not familar with yet while working leetcode problems.
+This repo contains notes and code snippets of data structures and 
+algorithms I found reusable while working leetcode problems.
