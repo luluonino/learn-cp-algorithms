@@ -44,7 +44,7 @@ class SegmentTree():
             if pos <= tm:
                 self._update(i * 2, tl, tm, pos, new_val)
             else:
-                self._update(I * 2 + 1, tm + 1, tr, pos, new_val)
+                self._update(i * 2 + 1, tm + 1, tr, pos, new_val)
 
             self.v[i] = self.v[i * 2] + self.v[i * 2 + 1]
 
